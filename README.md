@@ -1,2 +1,2 @@
-# First-Scetch-Book
+# first-sketch-book
 //Records of learning to code
